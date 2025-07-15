@@ -101,7 +101,7 @@ It will start a server on `http://127.0.0.1:8050`.
 ## ✍️ Author
 
 **Siddhant**
-📧 \[[YourEmail@example.com](mailto:YourEmail@example.com)]
+📧 \[[shaurya.sid1729@gmail.com](mailto:shaurya.sid@gmail.com)]
 🔗 [GitHub](https://github.com/siddhant1729)
 
 ---
