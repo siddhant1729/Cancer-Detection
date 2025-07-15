@@ -14,6 +14,8 @@ This project builds a **Machine Learning model** to predict whether a tumor is *
 
 > <img width="1884" height="622" alt="image" src="https://github.com/user-attachments/assets/cdad3a1c-8c69-4ac1-89fa-1a7fc46815f2" />
 > <img width="676" height="329" alt="image" src="https://github.com/user-attachments/assets/4144593f-9540-4ff8-a005-873b647678b9" />
+><img width="1842" height="639" alt="image" src="https://github.com/user-attachments/assets/4ad85a90-d3d1-409b-90b5-529abdfbf503" />
+
 
 
 
