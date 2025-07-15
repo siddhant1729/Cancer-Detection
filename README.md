@@ -12,6 +12,10 @@ This project builds a **Machine Learning model** to predict whether a tumor is *
 
 ## 📊 Demo Dashboard
 > Coming Soon – will be hosted via Streamlit or Dash
+> <img width="1884" height="622" alt="image" src="https://github.com/user-attachments/assets/cdad3a1c-8c69-4ac1-89fa-1a7fc46815f2" />
+> <img width="676" height="329" alt="image" src="https://github.com/user-attachments/assets/4144593f-9540-4ff8-a005-873b647678b9" />
+
+
 
 ---
 
